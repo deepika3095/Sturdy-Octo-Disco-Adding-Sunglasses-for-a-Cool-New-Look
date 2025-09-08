@@ -132,3 +132,4 @@ plt.show()
 
 ```
 <img width="689" height="279" alt="image" src="https://github.com/user-attachments/assets/f5b7cabc-0859-4c9b-8039-49a3556e04ab" />
+```
